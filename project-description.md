@@ -37,7 +37,7 @@ The table below shows the crashes from 2008 - 2017. The increase in drivers and 
 [Credit for Statistics](https://www.iii.org/fact-statistic/facts-statistics-highway-safety)
 
 ## Inadequacy of Current Solutions
-There is no device that currently out there that detects objects, tired drivers, a road signs for drivers. There are currently only advanced cars that cost hundred of thousand of dollars that have sensors and cameras built in the vehicle. Not everyone can afford expensive vehicles, therefore a device that can detect and notify dangerous objects and distractions on the road will reduce the likelihood of a crash along with increasing the safety.
+There is no device that currently out there that detects objects, tired drivers, and road signs for drivers. There are currently only advanced cars that cost additional ehundred of thousand of dollars that have sensors and cameras built in the vehicle. Not everyone can afford expensive vehicles, therefore a device that can detect and notify dangerous objects and distractions on the road will reduce the likelihood of a crash along with increasing the safety.
 
 
 ## Background Skills and Interest

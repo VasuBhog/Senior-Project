@@ -9,7 +9,7 @@
 * Dr. Wen Ben Jone - jonewb@ucmail.uc.edu
 
 ## Background Description
-Billions of people still drive on the road and have barely any assistance from a smart devices to help them while driving. There is a continuous increase in crashes over the years, and there are more and more drivers that are getting on the road. Our project will aim at creating a simple interface based application that will use computer vision and machine learning to detect dangerous situations and objects on the road. This will decrease the probability of crashes and injury, as well as increase the awareness of the driver. 
+Billions of people still drive on the road and have barely any assistance from smart devices to help them while driving. There is a continuous increase in crashes over the years, and there are more and more drivers that are getting on the road. Our project will aim at creating a simple interface based application that will use computer vision and machine learning to detect dangerous situations and objects on the road. This will decrease the probability of crashes and injury, as well as increase the awareness of the driver. 
 
 ## Problem Statement
 There have been millions of distracted drivers and car crashes over the years. Car crashes are continuously increasing and the issue is with drivers that are not aware or distracted. We need to find a solution that everyday drivers can utilize instead of buying a completely new vehicle. 
@@ -37,16 +37,16 @@ The table below shows the crashes from 2008 - 2017. The increase in drivers and 
 [Credit for Statistics](https://www.iii.org/fact-statistic/facts-statistics-highway-safety)
 
 ## Inadequacy of Current Solutions
-There is no device that currently out there that detects objects, tired drivers, and road signs for drivers. There are currently only advanced cars that cost additional ehundred of thousand of dollars that have sensors and cameras built in the vehicle. Not everyone can afford expensive vehicles, therefore a device that can detect and notify dangerous objects and distractions on the road will reduce the likelihood of a crash along with increasing the safety.
+There is no device that currently out there that detects objects, tired drivers, and road signs for drivers. There are currently only advanced cars that cost an additional hundred of thousand of dollars that have sensors and cameras built in the vehicle. Not everyone can afford expensive vehicles, therefore a device that can detect and notify dangerous objects and distractions on the road will reduce the likelihood of a crash along with increasing the safety.
 
 
 ## Background Skills and Interest
-**Background Skills:** We have experience in full stack web development, computer vision, and deep learning.
+**Background Skills:** We have experience in full-stack web development, computer vision, and deep learning.
 
 **Interest:** We are interested in adding to our skill sets and are looking forward to learning more about applications using Computer Vision.
 
 ## Approach, Goals and Expectations
 **Primary Goals**
 * Create/Utilize devices such as Raspberry PI
-* Utilize camera feed data to detect objects, drivers swaying, and road signs to enhance the drivers safety
-* Create a interface to help drivers in all conditions
+* Utilize camera feed data to detect objects, drivers swaying, and road signs to enhance the drivers' safety
+* Create an interface to help drivers in all conditions

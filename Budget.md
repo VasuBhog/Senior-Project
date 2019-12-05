@@ -3,15 +3,16 @@
 ### Expected Expenses
 | Item | Price
 | :---: |  :---: |
-Raspebery Pi | x |
-Rasperberry Pi Interface | x |
-ML model Accelertaor | x |
-
+Raspebery Pi | $149.00 |
+Rasperberry Pi Interface | $79.95 |
+ML model Accelertaor | $95.00 |
+Total | $323.95 |
 
 ### Donations
 | Item | Donor | Price
 | :---: |  :---: | :---: |
-GoPro Camera | Vasu Bhog | 300
+GoPro Camera | Vasu Bhog | $300
+
 
 
 ### Billable Hours

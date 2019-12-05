@@ -6,7 +6,7 @@
 * [Chunjie Pan](https://github.com/PanChunjie) - pance@mail.uc.edu
 
 ## Faculty Advisor
-* Dr. Wen Ben Jone
+* Dr. Wen Ben Jone - jonewb@ucmail.uc.edu
 
 ## Background Description
 Billions of people still drive on the road and have barely any assistance from a smart devices to help them while driving. There is a continuous increase in crashes over the years, and there are more and more drivers that are getting on the road. Our project will aim at creating a simple interface based application that will use computer vision and machine learning to detect dangerous situations and objects on the road. This will decrease the probability of crashes and injury, as well as increase the awareness of the driver. 

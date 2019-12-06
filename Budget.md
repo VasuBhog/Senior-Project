@@ -64,8 +64,11 @@ Total Hours | 46.5 |
 
 
 ### ChaoYang Zhu
+Date | Hours | Activity |
+| :---: |  :---: | :--- |
 
-Total Team Billable Hours
+
+## Total Team Billable Hours
 Team Member | Hours | Amount due at $75/hr |
 | :---: |  :---: | :--- |
 Vasu | 48.5 | $3,637.50 |

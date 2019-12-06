@@ -1,6 +1,6 @@
 # Appendix
 Code Repository:
-[Senior-Project](https://github.com/VasuBhog/Senior-Project)
+[Driver 2.0 Senior-Project](https://github.com/VasuBhog/Senior-Project)
 
 OpenCV: https://www.learnopencv.com/
 

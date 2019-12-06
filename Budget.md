@@ -63,3 +63,13 @@ Date | Hours | Activity |
 Total Hours | 46.5 |  
 
 
+### ChaoYang Zhu
+
+Total Team Billable Hours
+Team Member | Hours | Amount due at $75/hr |
+| :---: |  :---: | :--- |
+Vasu | 48.5 | $3,637.50 |
+Chunjie | 46.5 | $3,487.50 |
+ChaoYang Zhu | x | x |
+
+

@@ -18,7 +18,7 @@ GoPro Camera | Vasu Bhog | $300
 ### Billable Hours
 
 
-#### Vasu
+#### Vasu Bhog
 Date | Hours | Activity |
 | :---: |  :---: | :--- |
 8/28/2019 | 2 | Met with others teammates to discuss different project ideas and then ended up on a Computer Vision project | 
@@ -39,6 +39,26 @@ Date | Hours | Activity |
 12/10/2019 | 4 | Worked on Assignment 9 Final Report |
 Total Hours | 48.5 |  
 
+#### ChaoYang Zhu
+Date | Hours | Activity |
+| :---: |  :---: | :--- |
+8/28/2019 | 2 | Met with teammates to discuss different project ideas and decided to go with Computer Vision project | 
+8/30/2019 | 1.5 | Assignment 1 Due Biography |
+9/04/2019 | 3 | Met with teammates to collect every member's project ideas |
+9/05/2019 | 1 | Met with Dr.Wen-Ben to present our idea and get feedback |
+9/06/2019 | 2.5 | Researched on project topic(hardware and software) to find out the level of difficulty of our project. If it exceeds the difficulty we can handle, we will change our project |
+9/08/2019 | 2 | Assignment 2 Due Project Description |
+9/15/2019 | 1.5 | Assignment 3 Due Self Assessment |
+9/20/2019 | 3 | Helped Pan to research equipment for the project, like raspberry pi, camera, and intel accelerator |
+9/22/2019 | 2 | Assignment 4 Due User Stories and Design Diagrams|
+10/09/2019 | 2 | Assignment 5 Due Task Lists |
+10/13/2019 | 3.5 | Helped on research the best camera that fit the project |
+10/15/2019 | 2 | Assignment 6 Due Milestones, Timelines, and Effort Matrix |
+10/26/2019 | 8 | Researched on OpenCV with team |
+11/12/2019 | 6 | Assignment 8 Due Presentation and recorded the presentation |
+12/05/2019 | 5 | Worked on updating our Github and creating a Github Wiki to illustrate our final report |
+12/10/2019 | 3 | Assignment 9 Due Final Report |
+Total Hours | 48 |
 
 #### Chunjie Pan
 Date | Hours | Activity |
@@ -73,6 +93,6 @@ Team Member | Hours | Amount due at $75/hr |
 | :---: |  :---: | :--- |
 Vasu | 48.5 | $3,637.50 |
 Chunjie | 46.5 | $3,487.50 |
-ChaoYang Zhu | x | x |
+ChaoYang Zhu | 48 | $3,600.00 |
 
 

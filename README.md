@@ -29,4 +29,4 @@
 
 ## 7. [Budget](https://github.com/VasuBhog/Senior-Project/blob/master/Budget.md)
 
-## 8. Appendix
+## 8. [Appendix](https://github.com/VasuBhog/Senior-Project/blob/master/appendix.md)

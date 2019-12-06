@@ -34,7 +34,7 @@ Date | Hours | Activity |
 10/13/2019 | 4 | Did more research into which camera would work best for our project and found that we could use a camera I already have |
 10/15/2019 | 2 | Worked on Assignment 6 Milestones, Timelines, and Effort Matrix with the team |
 10/26/2019 | 8 | I worked on researching OpenCV and looking at previous Java programs I created to relearn important image processing techniques |
-11/12/2019 | 6 | Worked on Assignment 8 Presentation and recorded the presentation (editing, and recording) that would be presented in front of class|
+11/12/2019 | 4 | Worked on Assignment 8 Presentation and recorded the presentation (editing, and recording) that would be presented in front of class|
 12/05/2019 | 4 | Worked on updating our Github and creating a Github Wiki to illustrate our final report |
 12/10/2019 | 4 | Worked on Assignment 9 Final Report |
 Total Hours | 48.5 |  
@@ -81,5 +81,15 @@ Date | Hours | Activity |
 11/12/2019 |2| Assignment 8 Due Presentation
 12/10/2019 | 4 | Assignment 9 Due final report |
 Total Hours | 46.5 |  
+
+
+### ChaoYang Zhu
+
+Total Team Billable Hours
+Team Member | Hours | Amount due at $75/hr |
+| :---: |  :---: | :--- |
+Vasu | 48.5 | $3,637.50 |
+Chunjie | 46.5 | $3,487.50 |
+ChaoYang Zhu | x | x |
 
 

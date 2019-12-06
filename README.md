@@ -27,7 +27,6 @@
 * [ChaoYang Zhu](Biographies/ChaoYang_Zhu.md)
 * [Chunjie Pan](Biographies/Chunjie_Pan.md)
 
-## 7. Budget
-* 
+## 7. [Budget](Budget.md)
 
 ## 8. Appendix

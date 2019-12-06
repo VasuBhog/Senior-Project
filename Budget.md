@@ -85,8 +85,8 @@ Total Hours | 47 |
 ## Total Team Billable Hours
 Team Member | Hours | Amount due at $75/hr |
 | :---: |  :---: | :--- |
-Vasu | 48.5 | $3,637.50 |
-Chunjie | 46.5 | $3,487.50 |
+Vasu Bhog | 48.5 | $3,637.50 |
+Chunjie Pan | 46.5 | $3,487.50 |
 ChaoYang Zhu | 47 | $3,525.00 |
 
 
